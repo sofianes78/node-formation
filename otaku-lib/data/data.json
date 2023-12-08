@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Naruto",
+    "image": "/images/naruto.png",
+    "category": "Shōnen",
+    "description": "Une série racontant l'histoire de Naruto Uzumaki, un jeune ninja qui cherche à être reconnu par ses pairs et rêve de devenir le Hokage, le ninja le plus fort de son village.",
+    "author": "Masashi Kishimoto",
+    "releaseDate": "1999",
+    "endDate": "2014"
+  },
+  {
+    "title": "One Piece",
+    "image": "/images/one-piece.png",
+    "category": "Shōnen",
+    "description": "L'histoire suit les aventures de Monkey D. Luffy et de son équipage de pirates dans leur quête du One Piece, le trésor ultime, pour devenir le Roi des Pirates.",
+    "author": "Eiichiro Oda",
+    "releaseDate": "1997",
+    "endDate": "En cours"
+  },
+  {
+    "title": "Dragon Ball",
+    "image": "/images/dragon-ball.png",
+    "category": "Shōnen",
+    "description": "Ce manga iconique suit les aventures de Goku depuis son enfance à travers son parcours pour devenir le plus fort guerrier de l'univers, tout en rassemblant les boules de dragon.",
+    "author": "Akira Toriyama",
+    "releaseDate": "1984",
+    "endDate": "1995"
+  },
+  {
+    "title": "Death Note",
+    "image": "/images/death-note.png",
+    "category": "Shōnen",
+    "description": "L'histoire tourne autour d'un lycéen qui découvre un cahier mystérieux lui permettant de tuer quiconque dont il écrit le nom, initiant un jeu du chat et de la souris avec les forces de l'ordre.",
+    "author": "Tsugumi Ohba et Takeshi Obata",
+    "releaseDate": "2003",
+    "endDate": "2006"
+  },
+  {
+    "title": "Bleach",
+    "image": "/images/bleach.png",
+    "category": "Shōnen",
+    "description": "L'histoire suit Ichigo Kurosaki, un lycéen qui obtient les pouvoirs d'un Shinigami et doit protéger les humains des esprits maléfiques tout en guidant les âmes vers l'au-delà.",
+    "author": "Tite Kubo",
+    "releaseDate": "2001",
+    "endDate": "2016"
+  },
+  {
+    "title": "Attack on Titan (Shingeki no Kyojin)",
+    "image": "/images/attanck-on-titan.png",
+    "category": "Shōnen",
+    "description": "Dans un monde où l'humanité est au bord de l'extinction à cause de géants mangeurs d'hommes, le manga suit les aventures d'Eren Jaeger et ses amis qui luttent pour la survie de l'humanité.",
+    "author": "Hajime Isayama",
+    "releaseDate": "2009",
+    "endDate": "2021"
+  },
+  {
+    "title": "Fullmetal Alchemist",
+    "image": "/images/fullmetal-alchemist.png",
+    "category": "Shōnen",
+    "description": "L'histoire de deux frères, Edward et Alphonse Elric, qui utilisent l'alchimie dans leur quête pour retrouver leurs corps après une tentative désastreuse de ramener leur mère à la vie.",
+    "author": "Hiromu Arakawa",
+    "releaseDate": "2001",
+    "endDate": "2010"
+  },
+  {
+    "title": "Demon Slayer (Kimetsu no Yaiba)",
+    "image": "/images/demon-splayer.png",
+    "category": "Shōnen",
+    "description": "Ce manga raconte l'histoire de Tanjiro Kamado, un jeune garçon qui devient un tueur de démons après que sa famille a été massacrée et sa sœur transformée en démon.",
+    "author": "Koyoharu Gotouge",
+    "releaseDate": "2016",
+    "endDate": "2020"
+  },
+  {
+    "title": "My Hero Academia (Boku no Hero Academia)",
+    "image": "/images/my-hero-academia.png",
+    "category": "Shōnen",
+    "description": "Dans un monde où presque tous possèdent des super-pouvoirs, Izuku Midoriya rêve de devenir un héros malgré le fait qu'il soit né sans pouvoir.",
+    "author": "Kohei Horikoshi",
+    "releaseDate": "2014",
+    "endDate": "En cours"
+  },
+  {
+    "title": "Hunter x Hunter",
+    "image": "/images/hunter-x-hunter.png",
+    "category": "Shōnen",
+    "description": "Gon Freecss part à la recherche de son père disparu, un Hunter légendaire, en aspirant lui-même à devenir un Hunter et en explorant un monde plein de monstres, de magie et d'aventures.",
+    "author": "Yoshihiro Togashi",
+    "releaseDate": "1998",
+    "endDate": "En cours"
+  },
+  {
+    "title": "Sailor Moon",
+    "image": "/images/sailor-moon.png",
+    "category": "Shōjo",
+    "description": "Usagi Tsukino, une écolière ordinaire, découvre qu'elle est la réincarnation de Sailor Moon, une guerrière destinée à sauver la Terre des forces du mal.",
+    "author": "Naoko Takeuchi",
+    "releaseDate": "1991",
+    "endDate": "1997"
+  },
+  {
+    "title": "Tokyo Ghoul",
+    "image": "/images/tokyo-ghoul.png",
+    "category": "Seinen",
+    "description": "Kaneki, un étudiant ordinaire, se retrouve transformé en demi-ghoul après une rencontre dangereuse. Il doit naviguer dans un monde sombre et violent tout en luttant contre sa nature de ghoul.",
+    "author": "Sui Ishida",
+    "releaseDate": "2011",
+    "endDate": "2014"
+  },
+  {
+    "title": "JoJo's Bizarre Adventure",
+    "image": "/images/jojo.png",
+    "category": "Seinen",
+    "description": "Une saga épique suivant les aventures surnaturelles des membres de la famille Joestar à travers les générations.",
+    "author": "Hirohiko Araki",
+    "releaseDate": "1987",
+    "endDate": "En cours"
+  },
+  {
+    "title": "Fairy Tail",
+    "image": "/images/fairy-tail.png",
+    "category": "Shōnen",
+    "description": "Lucy Heartfilia, une jeune mage, rejoint la guilde de Fairy Tail et part en mission avec Natsu Dragneel et ses amis, explorant un monde de magie et de mystères.",
+    "author": "Hiro Mashima",
+    "releaseDate": "2006",
+    "endDate": "2017"
+  },
+  {
+    "title": "Sword Art Online",
+    "image": "/images/sword-art -online.png",
+    "category": "Isekai",
+    "description": "Des joueurs sont piégés dans un jeu de réalité virtuelle en ligne, et Kirito, le protagoniste, doit naviguer dans ce monde pour survivre et trouver un moyen de s'en échapper.",
+    "author": "Reki Kawahara",
+    "releaseDate": "2009",
+    "endDate": "En cours"
+  },
+  {
+    "title": "One Punch Man",
+    "image": "/images/one-punch-man.png",
+    "category": "Seinen",
+    "description": "Saitama, un héros si puissant qu'il peut vaincre n'importe quel adversaire d'un seul coup de poing, cherche un défi à sa hauteur dans un monde rempli de monstres et de héros.",
+    "author": "ONE et Yusuke Murata",
+    "releaseDate": "2009",
+    "endDate": "En cours"
+  },
+  {
+    "title": "Berserk",
+    "image": "/images/berserk.png",
+    "category": "Seinen",
+    "description": "Guts, un guerrier solitaire avec un passé sombre, se bat contre des forces démoniaques et son propre destin dans un monde brutal et impitoyable.",
+    "author": "Kentaro Miura",
+    "releaseDate": "1989",
+    "endDate": "2021"
+  },
+  {
+    "title": "Gintama",
+    "image": "/images/gintama.png",
+    "category": "Shōnen",
+    "description": "Dans un Japon féodal alternatif occupé par des extraterrestres, Gintoki Sakata et ses amis prennent divers petits boulots, souvent avec des conséquences hilarantes et imprévisibles.",
+    "author": "Hideaki Sorachi",
+    "releaseDate": "2003",
+    "endDate": "2019"
+  },
+  {
+    "title": "Yu-Gi-Oh!",
+    "image": "/images/yu-gi-oh.png",
+    "category": "Shōnen",
+    "description": "Yugi Mutou, un lycéen timide, devient un joueur compétent dans le jeu de cartes Duel Monsters, affrontant divers adversaires pour protéger ses amis et sauver le monde.",
+    "author": "Kazuki Takahashi",
+    "releaseDate": "1996",
+    "endDate": "2004"
+  },
+  {
+    "title": "Doraemon",
+    "image": "/images/doraemon.png",
+    "category": "Kodomo",
+    "description": "Doraemon, un chat robot venu du futur, aide le jeune Nobita Nobi à travers divers gadgets futuristes pour résoudre ses problèmes quotidiens, souvent avec des résultats comiques.",
+    "author": "Fujiko F. Fujio",
+    "releaseDate": "1969",
+    "endDate": "1996"
+  }
+]

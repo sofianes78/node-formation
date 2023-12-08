@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- --------------------- Police depuis google fonts ---------------------- -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Megrim&family=Nunito+Sans:opsz,wght@6..12,300;6..12,400;6..12,500&display=swap"
+      rel="stylesheet"
+    />
+    <link href="./dist/output.css" rel="stylesheet" />
+    <title>📙 Otaku Lib</title>
+  </head>
+  <body class="bg-white min-h-screen font-nunito-sans">
+    <header class="bg-primary py-4">
+      <h1 class="text-4xl font-megrim font-extrabold text-center text-white">
+        Otaku Lib
+      </h1>
+    </header>
+
+    <main
+      class="container mx-auto px-5 sm:px-0 my-10 grid sm:grid-cols-2 lg:grid-cols-3 gap-10"
+    >
+      {% CARD %}
+    </main>
+
+    <footer class="bg-primary py-4">
+      <p class="text-center text-white font-nunito-sans">
+        © 2023 Otaku Lib, Inc. All rights reserved.
+      </p>
+    </footer>
+  </body>
+</html>
